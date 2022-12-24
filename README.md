@@ -85,3 +85,8 @@ impl FloatingImage {
   }
 }
 ```
+
+
+```
+cargo run -- images/2.jpg images/1.jpg images/output.png
+```

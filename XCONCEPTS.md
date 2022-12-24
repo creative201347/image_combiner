@@ -1,5 +1,7 @@
 
 
+**The `..=` syntax is Rust's range syntax which allows the range to be inclusive of the end value. The `*` symbol before a variable is Rust's dereferencing operator, which allows the value of the variable to be accessed.**
+
 
 ``` rs
 // Struct Definition
